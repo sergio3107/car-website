@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://sergio3107:sergio3107@octane-car-parts.tt76x.mongodb.net/Octane-Car-Parts?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
